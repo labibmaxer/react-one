@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Counties = () => {
+const Countries = () => {
     return (
         <div>
             <h1>in the countries </h1>
@@ -8,4 +8,4 @@ const Counties = () => {
     );
 };
 
-export default counties;
+export default Countries;

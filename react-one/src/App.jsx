@@ -1,18 +1,4 @@
- 
- 
+import { useState } from 'react'
 import './App.css'
+import Countries from './counties'
 
-function App() {
-  
-
-  return (
-    
-        
-        <div>
-       <Countries></Countries>
-          </div>
-        
-  )
-}
-
-export default App
